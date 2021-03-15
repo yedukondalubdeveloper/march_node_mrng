@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "coffee": "^5.4.0",
+    "connect": "^3.7.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "package.json": "^2.0.1",
+    "pug": "^3.0.2",
+    "redis": "^3.0.2",
+    "script": "^0.1.4",
+    "socket.io": "^4.0.0"
+  }
+}
