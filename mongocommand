@@ -5,7 +5,7 @@ show dbs
 use databasename
 
 //To See all collections////
-show collections
+show collections  
 
 //Find all data/////
 db.collectionName.find()
