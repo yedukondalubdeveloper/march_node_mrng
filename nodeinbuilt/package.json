@@ -4,8 +4,7 @@
   "description": "this is to start server",
   "main": "fs.js",
   "scripts": {
-   "start":"node staticapi.js",
-   "dev":"nodemon ./bin/www"
+   "start":"node staticapi.js"
   },
   "keywords": [
     "node"
