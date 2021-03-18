@@ -1,11 +1,11 @@
 //To See all DBs////
-show dbs  
+show dbs 
 
 //To Use Particular DB////
 use databasename
 
 //To See all collections////
-show collections  
+show collections
 
 //Find all data/////
 db.collectionName.find()
